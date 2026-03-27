@@ -50,7 +50,7 @@ Se realizaron pruebas de funcionamiento para validar:
 ## 👤 Autor
 *   **Estudiante:** YERALDIN ARBOLEDA QUINTERO
 *   **Curso:** Inteligencia Artificial
-*   **Fecha:** 2024
+*   **Fecha:** 2026
 
 ## 📄 Licencia
 Este proyecto es de uso académico.
